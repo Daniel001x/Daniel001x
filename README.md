@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/edab59d3-4987-4177-b03b-77f542e9c91a" width="100%" alt="sukuna"/>
+</p>
+
 # Sup! I'm Danish (aka Daniel) 👋
 
 <div align="center">
